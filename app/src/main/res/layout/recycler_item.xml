@@ -11,11 +11,12 @@
     android:paddingTop="10dp"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <ImageView
-        android:id="@+id/icon_view"
+    <pl.droidsonroids.gif.GifImageView
         android:layout_width="36dp"
         android:layout_height="36dp"
-        android:src="@drawable/new_music_icon" />
+        android:id="@+id/icon_view"
+        android:src="@drawable/monkey_music_pause7" />
+        />
 
     <TextView
         android:id="@+id/music_title_text"
