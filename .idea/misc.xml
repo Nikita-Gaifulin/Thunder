@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/USER/AndroidStudioProjects/Thunder/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Thunder/app/src/main/res/drawable-v24/progress_seekbar.xml" value="0.1" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/Thunder/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.1125" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/Thunder/app/src/main/res/drawable/logo_background.xml" value="0.1" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/Thunder/app/src/main/res/layout/activity_main.xml" value="0.33" />
