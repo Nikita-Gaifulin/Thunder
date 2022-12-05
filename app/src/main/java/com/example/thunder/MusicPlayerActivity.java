@@ -146,7 +146,7 @@ public class MusicPlayerActivity extends AppCompatActivity {
     {
         if(mediaPlayer.isPlaying())
         {
-            musicIcon.setImageResource(R.drawable.monkey_music_pause6);
+            musicIcon.setImageResource(R.drawable.monkey_music_pause7);
             mediaPlayer.pause();
         }
         else

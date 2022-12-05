@@ -35,8 +35,7 @@ public class MainActivity extends AppCompatActivity {
         if(CheckPermission() == false)
         {
             RequestPermission();
-            return;
-            //onCreate(savedInstanceState);
+            onCreate(savedInstanceState);
         }
 
         String[] projection =
